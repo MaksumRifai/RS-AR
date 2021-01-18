@@ -9,11 +9,10 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
         {
-            name: 'Pokèmon',
+            name: 'RS Rujukan Covid',
             location: {
-                // decomment the following and add coordinates:
-                // lat: -6.1514832977376,
-                // lng: 107.0273119211197,
+                lat: -6.1514832977376,
+                lng: 107.0273119211197,
             },
         },
     ];
